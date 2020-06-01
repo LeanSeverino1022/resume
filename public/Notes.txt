@@ -1,0 +1,5 @@
+todo:
+
+
+minify css
+: purgecss - https://flaviocopes.com/tailwind-setup/

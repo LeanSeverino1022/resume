@@ -1,0 +1,3 @@
+currently hosted on netlify via project folder drag and drop and not via github repo - maybe later on use GH repo
+
+maybe add live-server package and update readme

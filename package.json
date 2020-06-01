@@ -1,0 +1,17 @@
+{
+  "name": "yappoch-cv",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "postcss public/css/tailwind.css -o public/build/build.css"
+  },
+  "keywords": [],
+  "author": "Puyih Severino",
+  "license": "ISC",
+  "dependencies": {
+    "autoprefixer": "^9.8.0",
+    "postcss-cli": "^7.1.1",
+    "tailwindcss": "^1.4.6"
+  }
+}
